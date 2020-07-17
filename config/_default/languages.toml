@@ -5,16 +5,28 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  title = "Saint-Clair Chabert-Liddell"
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
+[fr]
+  languageCode = "fr-fr"
+  contentDir = "content/fr"
+  title = "Saint-Clair Chabert-Liddell"
 #  [zh.params]
 #    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+  [[fr.menu.main]]
+    name = "A propos"
+    url = "#about"
+    weight = 30
+  [[fr.menu.main]]
+    name = "Publications"
+    url = "#featured"
+    weight = 40
+  [[fr.menu.main]]
+    name = "Enseignement"
+    url = "#teaching"
+    weight = 50
+  [[fr.menu.main]]
+    name = "Contact"
+    url = "#contact"
+    weight = 60
