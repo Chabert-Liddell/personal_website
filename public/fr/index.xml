@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saint-Clair Chabert-Liddell</title>
-    <link>https://chabert-liddell.netlify.app/fr/</link>
-      <atom:link href="https://chabert-liddell.netlify.app/fr/index.xml" rel="self" type="application/rss+xml" />
+    <link>/fr/</link>
+      <atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
     <description>Saint-Clair Chabert-Liddell</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chabert-liddell.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Saint-Clair Chabert-Liddell</title>
-      <link>https://chabert-liddell.netlify.app/fr/</link>
+      <link>/fr/</link>
     </image>
     
     <item>
       <title>Enseignements à l&#39;Agroparistech</title>
-      <link>https://chabert-liddell.netlify.app/fr/courses/enseignements-a-l-agroparistech/</link>
+      <link>/fr/courses/enseignements-a-l-agroparistech/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://chabert-liddell.netlify.app/fr/courses/enseignements-a-l-agroparistech/</guid>
+      <guid>/fr/courses/enseignements-a-l-agroparistech/</guid>
       <description>
 
 
@@ -28,17 +28,17 @@
     
     <item>
       <title>A Stochastic Block Model for Multilevel Networks: Application to the Sociology of Organizations</title>
-      <link>https://chabert-liddell.netlify.app/fr/publication/multilevel_sbm/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/</link>
+      <link>/fr/publication/multilevel_sbm/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/</link>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://chabert-liddell.netlify.app/fr/publication/multilevel_sbm/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/</guid>
+      <guid>/fr/publication/multilevel_sbm/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic block model for multilevel networks unravels structural interdependence between the social and economic networks in a TV program trade fair</title>
-      <link>https://chabert-liddell.netlify.app/fr/talk/sunbelt2020/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/</link>
+      <link>/fr/talk/sunbelt2020/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://chabert-liddell.netlify.app/fr/talk/sunbelt2020/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/</guid>
+      <guid>/fr/talk/sunbelt2020/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/</guid>
       <description></description>
     </item>
     
