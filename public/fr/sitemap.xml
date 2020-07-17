@@ -73,17 +73,17 @@
   </url>
   
   <url>
-    <loc>/fr/publication/multilevel_sbm/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/</loc>
+    <loc>/fr/publication/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/multilevel_sbm/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/"
+                href="/en/publication/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/publication/multilevel_sbm/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/"
+                href="/fr/publication/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/"
                 />
   </url>
   
@@ -268,17 +268,47 @@
   </url>
   
   <url>
-    <loc>/fr/talk/sunbelt2020/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/</loc>
+    <loc>/fr/talk/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/sunbelt2020/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/"
+                href="/en/talk/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/talk/sunbelt2020/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/"
+                href="/fr/talk/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/privacy/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/terms/"
                 />
   </url>
   
