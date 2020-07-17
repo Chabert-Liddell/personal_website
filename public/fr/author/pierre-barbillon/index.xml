@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pierre Barbillon | Saint-Clair Chabert-Liddell</title>
-    <link>/fr/author/pierre-barbillon/</link>
-      <atom:link href="/fr/author/pierre-barbillon/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chabert-liddell.netlify.app/fr/author/pierre-barbillon/</link>
+      <atom:link href="https://chabert-liddell.netlify.app/fr/author/pierre-barbillon/index.xml" rel="self" type="application/rss+xml" />
     <description>Pierre Barbillon</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://chabert-liddell.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Pierre Barbillon</title>
-      <link>/fr/author/pierre-barbillon/</link>
+      <link>https://chabert-liddell.netlify.app/fr/author/pierre-barbillon/</link>
     </image>
     
     <item>
       <title>A Stochastic Block Model for Multilevel Networks: Application to the Sociology of Organizations</title>
-      <link>/fr/publication/multilevel_sbm/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/</link>
+      <link>https://chabert-liddell.netlify.app/fr/publication/multilevel_sbm/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/</link>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/fr/publication/multilevel_sbm/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/</guid>
+      <guid>https://chabert-liddell.netlify.app/fr/publication/multilevel_sbm/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/</guid>
       <description></description>
     </item>
     
