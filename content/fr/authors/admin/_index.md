@@ -29,6 +29,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Chabert-Liddell
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Saint_Clair_Chabert-Liddell
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-5604-7308
@@ -39,4 +42,4 @@ user_groups:
 - Visitors
 ---
 
-Je suis un doctorant en mathématiques appliquées, spécialisé en statistiques. Je m'intéresse à la modélisation et à l'inférence de réseaux multicouche. Les champs d'applications comprennent l'analyse de réseaux sociaux et de réseaux écologiques.
+Je suis un doctorant en mathématiques appliquées, spécialisé en statistiques. J'effectue ma thèse thèse au laboratoire [MIA Paris](https://www6.inrae.fr/mia-paris) sous la direction de [Sophie Donnet](https://www6.inrae.fr/mia-paris/Equipes/Membres/Sophie-Donnet) et [Pierre Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon). Je m'intéresse à la modélisation et à l'inférence de réseaux multicouche. Les champs d'applications comprennent l'analyse de réseaux sociaux et de réseaux écologiques.
