@@ -5,7 +5,7 @@ bio: My PhD. research focus on the modeling and the inference of multilayer netw
 education:
   courses:
   - course: PhD in Applied Mathematics
-    institution: INRAe / Paris-Saclay University
+    institution: INRAE / Paris-Saclay University
     year: 2018-current
   - course: Master2 in Applied Mathematics, specialization in Statistics
     institution: Sorbonne University
@@ -16,7 +16,7 @@ interests:
 - Statistics
 #- 
 organizations:
-- name: INRAe / Paris-Saclay University
+- name: INRAE / Paris-Saclay University
   url: ""
 role: PhD. Student
 social:

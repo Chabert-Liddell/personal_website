@@ -19,6 +19,10 @@
     url = "#about"
     weight = 30
   [[fr.menu.main]]
+    name = "Nouvelles"
+    url = "#post"
+    weight = 35
+  [[fr.menu.main]]
     name = "Publications"
     url = "#featured"
     weight = 40

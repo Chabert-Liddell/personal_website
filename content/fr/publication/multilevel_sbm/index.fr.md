@@ -1,8 +1,7 @@
 ---
-title: 'A Stochastic Block Model for Multilevel Networks: Application to the Sociology
-  of Organizations'
+title: 'A stochastic block model approach for the analysis of multilevel networks: An application to the sociology of organizations'
 author: ["admin"]
-date: '2020-07-16'
+date: '2021-01-14'
 slug: a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations
 categories: []
 tags:
@@ -14,13 +13,13 @@ authors:
   - Pierre Barbillon
   - Sophie Donnet
   - Emmanuel Lazega
-doi: ''
+doi: '10.1016/j.csda.2021.107179'
 publishDate: '2020-07-16T19:18:10+02:00'
 publication_types:
-  - '3'
-publication: ''
-publication_short: ''
-abstract: 'This work is motivated by the analysis of multilevel networks. We define a multilevel network as the junction of two interaction networks, one level representing the interactions between individuals and the other one the interactions between organizations. The levels are linked by an affiliation relationship, each individual belonging to a unique organization. We design a Stochastic block model (SBM) suited to multilevel networks. The SBM is a latent variable model for networks, where the connections between nodes depend on a latent clustering (blocks) introducing some connection heterogeneity. We prove the identifiability of our model. The parameters of the model are estimated with a variational EM algorithm. An Integrated Completed Likelihood criterion is developed not only to select the number of blocks but also to detect whether the individual and organizational levels are dependent or not. In a comprehensive simulation study, we exhibit the benefit of considering our approach, illustrate the robustness of our parameter estimation and highlight the reliability of our model selection criterion. Our approach is applied on a sociological dataset collected during a television programs trade fair. The inter-organizational level is the economic network between companies and the inter-individual level is the informal network between their representatives. '
+  - '2'
+publication: 'Computational Statistics & Data Analysis (158)'
+publication_short: 'CSDA'
+abstract: 'A multilevel network is defined as the junction of two interaction networks, one level representing the interactions between individuals and the other the interactions between organizations. The levels are linked by an affiliation relationship, each individual belonging to a unique organization. A new Stochastic Block Model is proposed as a unified probabilistic framework tailored for multilevel networks. This model contains latent blocks accounting for heterogeneity in the patterns of connection within each level and introducing dependencies between the levels. The sought connection patterns are not specified a priori which makes this approach flexible. Variational methods are used for the model inference and an Integrated Classified Likelihood criterion is developed for choosing the number of blocks and also for deciding whether the two levels are dependent or not. A comprehensive simulation study exhibits the benefit of considering this approach, illustrates the robustness of the clustering and highlights the reliability of the criterion used for model selection. This approach is applied on a sociological dataset collected during a television program trade fair, the inter-organizational level being the economic network between companies and the inter-individual level being the informal network between their representatives. It brings a synthetic representation of the two networks unraveling their intertwined structure and confirms the coopetition at stake. '
 summary: ''
 featured: yes
 image: 
