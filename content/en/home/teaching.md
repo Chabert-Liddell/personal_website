@@ -17,13 +17,42 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Data science: Statistical learning (4th year after highschool)"
+  company = "Agroparistech"
+  company_url = "http://www2.agroparistech.fr/Welcome-to-AgroParisTech.html"
+  location = ""
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """
+  16h30 of computer practical tutorial in **R**:
+  
+  * Linear model, PCA, k-means
+  * Project follow-up
+  """
+
+[[experience]]
+  title = "Data science: Statistical learning (4th year after highschool)"
+  company = "Agroparistech"
+  company_url = "http://www2.agroparistech.fr/Welcome-to-AgroParisTech.html"
+  location = ""
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """
+  16h30 of computer practical tutorial in **R**:
+  
+  * Linear model, PCA, k-means
+  * Project follow-up
+  """
+
 [[experience]]
   title = "Statistics 1A (3rd year after highschool)"
   company = "Agroparistech"
-  company_url = ""
+  company_url = "http://www2.agroparistech.fr/Welcome-to-AgroParisTech.html"
   location = ""
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2021-06-30"
   description = """
   33h of practical tutorial:
   
@@ -35,10 +64,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Linear model 2A (4th year after highschool)"
   company = "Agroparistech"
-  company_url = ""
+  company_url = "http://www2.agroparistech.fr/Welcome-to-AgroParisTech.html"
   location = ""
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2020-06-30"
   description = """
   13h30 of computer practical tutorial in **R**:
   
@@ -49,7 +78,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Advanced mathematics 2A (4th year after highschool)"
   company = "Agroparistech"
-  company_url = ""
+  company_url = "http://www2.agroparistech.fr/Welcome-to-AgroParisTech.html"
   location = ""
   date_start = "2018-09-01"
   date_end = "2019-06-30"
