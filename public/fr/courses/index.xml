@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Saint-Clair Chabert-Liddell</title>
-    <link>/fr/courses/</link>
-      <atom:link href="/fr/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chabert-liddell.netlify.app/fr/courses/</link>
+      <atom:link href="https://chabert-liddell.netlify.app/fr/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://chabert-liddell.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Courses</title>
-      <link>/fr/courses/</link>
+      <link>https://chabert-liddell.netlify.app/fr/courses/</link>
     </image>
     
     <item>
       <title>Enseignements à l&#39;Agroparistech</title>
-      <link>/fr/courses/enseignements-a-l-agroparistech/</link>
+      <link>https://chabert-liddell.netlify.app/fr/courses/enseignements-a-l-agroparistech/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/fr/courses/enseignements-a-l-agroparistech/</guid>
+      <guid>https://chabert-liddell.netlify.app/fr/courses/enseignements-a-l-agroparistech/</guid>
       <description>
 
 

@@ -1,303 +1,253 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/en/publication-type/3/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <loc>https://chabert-liddell.netlify.app/en/post/2021-02-03-my-first-scientific-paper/</loc>
+    <lastmod>2021-02-03T18:58:21+01:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/authors/</loc>
+    <lastmod>2021-02-03T18:58:21+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/publication-type/3/"
+                href="https://chabert-liddell.netlify.app/fr/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication-type/3/"
+                href="https://chabert-liddell.netlify.app/en/authors/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/publication/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/post/</loc>
+    <lastmod>2021-02-03T18:58:21+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/publication/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/"
+                href="https://chabert-liddell.netlify.app/fr/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/"
+                href="https://chabert-liddell.netlify.app/en/post/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/authors/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/</loc>
+    <lastmod>2021-02-03T18:58:21+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/authors/"
+                href="https://chabert-liddell.netlify.app/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
+                href="https://chabert-liddell.netlify.app/en/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/author/emmanuel-lazega/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/author/saint-clair-chabert-liddell/</loc>
+    <lastmod>2021-02-03T18:58:21+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/author/emmanuel-lazega/"
+                href="https://chabert-liddell.netlify.app/fr/author/saint-clair-chabert-liddell/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/emmanuel-lazega/"
+                href="https://chabert-liddell.netlify.app/en/author/saint-clair-chabert-liddell/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/tag/multilevel-network/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/publication-type/2/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tag/multilevel-network/"
+                href="https://chabert-liddell.netlify.app/fr/publication-type/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/multilevel-network/"
+                href="https://chabert-liddell.netlify.app/en/publication-type/2/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/author/pierre-barbillon/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/publication/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/author/pierre-barbillon/"
+                href="https://chabert-liddell.netlify.app/fr/publication/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/pierre-barbillon/"
+                href="https://chabert-liddell.netlify.app/en/publication/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/publication_types/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/author/emmanuel-lazega/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/publication_types/"
+                href="https://chabert-liddell.netlify.app/fr/author/emmanuel-lazega/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/"
+                href="https://chabert-liddell.netlify.app/en/author/emmanuel-lazega/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/publication/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/tag/multilevel-network/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/publication/"
+                href="https://chabert-liddell.netlify.app/fr/tag/multilevel-network/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/"
+                href="https://chabert-liddell.netlify.app/en/tag/multilevel-network/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/author/pierre-barbillon/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="https://chabert-liddell.netlify.app/fr/author/pierre-barbillon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://chabert-liddell.netlify.app/en/author/pierre-barbillon/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/author/saint-clair-chabert-liddell/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/publication_types/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/author/saint-clair-chabert-liddell/"
+                href="https://chabert-liddell.netlify.app/fr/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/saint-clair-chabert-liddell/"
+                href="https://chabert-liddell.netlify.app/en/publication_types/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/tag/sociology/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/publication/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tag/sociology/"
+                href="https://chabert-liddell.netlify.app/fr/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/sociology/"
+                href="https://chabert-liddell.netlify.app/en/publication/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/author/sophie-donnet/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/tag/sociology/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/author/sophie-donnet/"
+                href="https://chabert-liddell.netlify.app/fr/tag/sociology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/sophie-donnet/"
+                href="https://chabert-liddell.netlify.app/en/tag/sociology/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/tag/stochastic-block-model/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/author/sophie-donnet/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tag/stochastic-block-model/"
+                href="https://chabert-liddell.netlify.app/fr/author/sophie-donnet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/stochastic-block-model/"
+                href="https://chabert-liddell.netlify.app/en/author/sophie-donnet/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/tags/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/tag/stochastic-block-model/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="https://chabert-liddell.netlify.app/fr/tag/stochastic-block-model/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://chabert-liddell.netlify.app/en/tag/stochastic-block-model/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/talk/</loc>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/tags/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://chabert-liddell.netlify.app/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://chabert-liddell.netlify.app/en/tags/"
+                />
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/talk/</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/talk/"
+                href="https://chabert-liddell.netlify.app/fr/talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/"
+                href="https://chabert-liddell.netlify.app/en/talk/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/talk/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/</loc>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/talk/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/talk/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/"
+                href="https://chabert-liddell.netlify.app/fr/talk/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/"
+                href="https://chabert-liddell.netlify.app/en/talk/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/privacy/"
+                href="https://chabert-liddell.netlify.app/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/privacy/"
+                href="https://chabert-liddell.netlify.app/en/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://chabert-liddell.netlify.app/en/courses/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/terms/"
+                href="https://chabert-liddell.netlify.app/fr/courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/terms/"
+                href="https://chabert-liddell.netlify.app/en/courses/"
                 />
   </url>
-  
-  <url>
-    <loc>/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/courses/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/"
-                />
-  </url>
-  
 </urlset>

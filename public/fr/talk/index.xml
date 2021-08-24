@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conférences et séminaires | Saint-Clair Chabert-Liddell</title>
-    <link>/fr/talk/</link>
-      <atom:link href="/fr/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chabert-liddell.netlify.app/fr/talk/</link>
+      <atom:link href="https://chabert-liddell.netlify.app/fr/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Conférences et séminaires</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://chabert-liddell.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Conférences et séminaires</title>
-      <link>/fr/talk/</link>
+      <link>https://chabert-liddell.netlify.app/fr/talk/</link>
     </image>
     
     <item>
       <title>Stochastic block model for multilevel networks unravels structural interdependence between the social and economic networks in a TV program trade fair</title>
-      <link>/fr/talk/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/</link>
+      <link>https://chabert-liddell.netlify.app/fr/talk/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/fr/talk/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/</guid>
+      <guid>https://chabert-liddell.netlify.app/fr/talk/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/</guid>
       <description></description>
     </item>
     
