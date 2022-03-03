@@ -18,19 +18,6 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "Data science: Statistical learning (4th year after highschool)"
-  company = "Agroparistech"
-  company_url = "http://www2.agroparistech.fr/Welcome-to-AgroParisTech.html"
-  location = ""
-  date_start = "2020-09-01"
-  date_end = ""
-  description = """
-  16h30 of computer practical tutorial in **R**:
-  
-  * Linear model, PCA, k-means
-  * Project follow-up
-  """
 
 [[experience]]
   title = "Data science: Statistical learning (4th year after highschool)"
@@ -38,7 +25,7 @@ date_format = "Jan 2006"
   company_url = "http://www2.agroparistech.fr/Welcome-to-AgroParisTech.html"
   location = ""
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2022-06-30"
   description = """
   16h30 of computer practical tutorial in **R**:
   
