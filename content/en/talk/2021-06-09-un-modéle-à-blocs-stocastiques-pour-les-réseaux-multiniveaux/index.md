@@ -28,10 +28,10 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-url_slides: ~
+url_slides: 'talk/2021-06-09-un-modéle-à-blocs-stocastiques-pour-les-réseaux-multiniveaux/210610_jds_multilevel.pdf'
 url_code: ~
 url_pdf: ~
 url_video: ~
-slides: 'talk/2021-06-09-un-modéle-à-blocs-stocastiques-pour-les-réseaux-multiniveaux/210610_jds_multilevel.pdf'
+slides: ~
 projects: []
 ---

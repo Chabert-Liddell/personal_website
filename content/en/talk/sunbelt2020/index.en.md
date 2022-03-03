@@ -24,5 +24,5 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-url_pdf: talk/sunbelt2020/200713_sunbelt.pdf
+url_slides: talk/sunbelt2020/200713_sunbelt.pdf
 ---

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "2021 02 03 My First Scientific Paper"
+title: "My First Scientific Paper"
 subtitle: ""
 summary: ""
 authors: ["admin"]

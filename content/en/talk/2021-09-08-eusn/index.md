@@ -29,10 +29,10 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-url_slides: ~
+url_slides: 'talk/2021-09-08-eusn/210908_collection_sbm.pdf'
 url_code: ~
 url_pdf: ~
 url_video: ~
-slides: 'talk/2021-09-08-eusn/210908_collection_sbm.pdf'
+slides: ~
 projects: []
 ---
