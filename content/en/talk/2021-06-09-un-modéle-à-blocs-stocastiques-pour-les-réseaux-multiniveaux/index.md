@@ -1,7 +1,7 @@
 ---
 title: Un modéle à blocs stocastiques pour les réseaux multiniveaux
 author: Saint-Clair
-date: '2021-06-09'
+date: '2021-06-09T15:00:00'
 slug: un-modéle-à-blocs-stocastiques-pour-les-réseaux-multiniveaux
 categories: []
 tags:
@@ -9,8 +9,8 @@ tags:
   - Stochastic Block Model
   - Sociology
 event: JDS 2021 - 52èmes Journées de Statistique de la Société Française de Statistique (SFdS)
-event_url: https://jds2021.sciencesconf.org/
-location: Nice (online)
+event_url: 'https://jds2021.sciencesconf.org/'
+location: Nice - France (online)
 address:
   street: ~
   city: ~
@@ -19,7 +19,7 @@ address:
   country: ~
 summary: ~
 abstract: ~
-date_end: '2021-06-09T18:33:14+01:00'
+date_end: '2021-06-09T17:00:00'
 all_day: no
 publishDate: '2021-06-09T18:33:14+01:00'
 authors: []
