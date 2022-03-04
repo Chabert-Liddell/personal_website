@@ -1,7 +1,7 @@
 ---
-authors:
-- admin
-bio: My PhD. research focus on the modeling and the inference of multilayer networks and its application in sociology and ecology.
+title: "Saint-Clair Chabert-Liddell"
+bio: My PhD. research focus on the modeling and the inference of multilayer networks
+  and its application in sociology and ecology.
 education:
   courses:
   - course: PhD in Applied Mathematics
@@ -10,14 +10,13 @@ education:
   - course: Master2 in Applied Mathematics, specialization in Statistics
     institution: Sorbonne University
     year: 2018
-email: "saint-clair.chabert-liddell@agroparistech.fr"
+email: saint-clair.chabert-liddell@agroparistech.fr
 interests:
 - Networks
 - Statistics
-#- 
 organizations:
 - name: INRAE / Paris-Saclay University
-  url: ""
+  url: ''
 role: PhD. Student
 social:
 - icon: envelope
@@ -35,8 +34,8 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-5604-7308
-superuser: true
-title: Saint-Clair Chabert-Liddell
+superuser: yes
+authors: admin
 user_groups:
 - Researchers
 - Visitors
