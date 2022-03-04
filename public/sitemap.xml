@@ -1,18 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://chabert-liddell.netlify.app/en/sitemap.xml</loc>
-    
-      <lastmod>2021-02-03T18:58:21+01:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://chabert-liddell.netlify.app/fr/sitemap.xml</loc>
-    
-      <lastmod>2021-02-03T19:12:08+01:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.chabert-liddell.com/tag/bipartite-networks/</loc>
+    <lastmod>2022-03-17T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/tag/collection-of-networks/</loc>
+    <lastmod>2022-03-17T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/tag/ecology/</loc>
+    <lastmod>2022-03-17T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/tag/multilevel-network/</loc>
+    <lastmod>2022-03-17T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/talk/</loc>
+    <lastmod>2022-03-17T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/</loc>
+    <lastmod>2022-03-17T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/tag/sociology/</loc>
+    <lastmod>2022-03-17T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/talk/phd-defense/</loc>
+    <lastmod>2022-03-17T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/tag/stochastic-block-model/</loc>
+    <lastmod>2022-03-17T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/tags/</loc>
+    <lastmod>2022-03-17T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/talk/eusn/</loc>
+    <lastmod>2022-03-03T18:48:26+01:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/tag/advice-network/</loc>
+    <lastmod>2022-03-03T18:48:26+01:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/tag/social-network/</loc>
+    <lastmod>2022-03-03T18:48:26+01:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/post/phd-defense/</loc>
+    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/post/</loc>
+    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/publication-type/2/</loc>
+    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/authors/</loc>
+    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/publication/impact-of-the-mesoscale-structure-of-a-bipartite-ecological-interaction-network-on-its-robustness-through-a-probabilistic-modeling/</loc>
+    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/author/pierre-barbillon/</loc>
+    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/publication_types/</loc>
+    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/publication/</loc>
+    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/author/saint-clair-chabert-liddell/</loc>
+    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/author/sophie-donnet/</loc>
+    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/tag/economic-network/</loc>
+    <lastmod>2021-06-09T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/talk/un-modele-a-blocs-stocastiques-pour-les-reseaux-multiniveaux/</loc>
+    <lastmod>2021-06-09T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/post/2021-02-03-my-first-scientific-paper/</loc>
+    <lastmod>2021-02-03T18:58:21+01:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/publication/a-stochastic-block-model-for-multilevel-networks-application-to-the-sociology-of-organizations/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/author/emmanuel-lazega/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/talk/stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair/</loc>
+    <lastmod>2020-07-13T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/categories/</loc>
+  </url><url>
+    <loc>https://www.chabert-liddell.com/courses/</loc>
+  </url>
+</urlset>
