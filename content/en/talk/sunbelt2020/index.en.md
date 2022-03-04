@@ -7,6 +7,9 @@ tags:
   - Multilevel network
   - Sociology
   - Stochastic Block Model
+  - Advice network
+  - Economic network
+  - Social network
 slug: stochastic-block-model-for-multilevel-networks-unravels-structural-interdependence-between-the-social-and-economic-networks-in-a-tv-program-trade-fair
 event: 2020 Sunbelt Virtual Conference
 event_url: 'https://www.insna.org/events/sunbelt-virtual-conference'

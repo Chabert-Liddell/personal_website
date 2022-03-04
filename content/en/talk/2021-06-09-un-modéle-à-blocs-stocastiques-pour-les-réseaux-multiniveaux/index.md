@@ -8,6 +8,9 @@ tags:
   - Multilevel network
   - Stochastic Block Model
   - Sociology
+  - Advice network
+  - Economic network
+  - Social network
 event: JDS 2021 - 52èmes Journées de Statistique de la Société Française de Statistique (SFdS)
 event_url: 'https://jds2021.sciencesconf.org/'
 location: Nice - France (online)
@@ -28,7 +31,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-url_slides: 'talk/2021-06-09-un-modéle-à-blocs-stocastiques-pour-les-réseaux-multiniveaux/210610_jds_multilevel.pdf'
+url_slides: 'talk/jds2021/210610_jds_multilevel.pdf'
 url_code: ~
 url_pdf: ~
 url_video: ~

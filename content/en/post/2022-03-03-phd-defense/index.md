@@ -33,7 +33,7 @@ The defense will be broadcasted online. Please, feel free to contact me if you w
 
 Je suis très heureux de vous annoncer que la soutenance de ma thèse intitulée *Apprentissage statistique de collections de réseaux avec applications en ecologie et en sociologie* aura lieu dans les locaux d'AgroParisTech le __jeudi 17 mars 2022 à 15h__. Souhaitez-moi bonne chance !
 
-La soutenance sera diffusé en ligne. N'hésitez pas à me contacter si vous souhaitez obtenir les codes d'accès.
+La soutenance sera diffusée en ligne. N'hésitez pas à me contacter si vous souhaitez obtenir les codes d'accès.
 
 ---
 
