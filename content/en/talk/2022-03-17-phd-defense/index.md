@@ -53,7 +53,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: yes
-url_slides: null
+url_slides: 'talk/phddefense/defense.pdf'
 url_code: null
 url_pdf: null
 url_video: null

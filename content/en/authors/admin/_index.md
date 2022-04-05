@@ -1,23 +1,23 @@
 ---
 title: "Saint-Clair Chabert-Liddell"
-bio: My PhD. research focus on the modeling and the inference of multilayer networks
-  and its application in sociology and ecology.
+bio: My research focus on the modeling and the inference of networks and
+  its application in sociology and ecology.
 education:
   courses:
   - course: PhD in Applied Mathematics
-    institution: INRAE / Paris-Saclay University
-    year: 2018-current
+    institution: Paris-Saclay University
+    year: 2018-2022
   - course: Master2 in Applied Mathematics, specialization in Statistics
     institution: Sorbonne University
     year: 2018
-email: saint-clair.chabert-liddell@agroparistech.fr
+email: academic@chabert-liddell.fr
 interests:
 - Networks
 - Statistics
 organizations:
 - name: INRAE / Paris-Saclay University
   url: ''
-role: PhD. Student
+role: PhD
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,5 +41,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD. Student in applied mathematics and statistics at the [MIA Paris](https://www6.inrae.fr/mia-paris) laboratory under the supervision of [Sophie Donnet](https://www6.inrae.fr/mia-paris/Equipes/Membres/Sophie-Donnet) and [Pierre Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon).
-My research focus on the modeling and the inference of multilayer networks. Fields of application arise in ecology and sociology. 
+I did my PhD in applied mathematics and statistics at the [MIA Paris](https://www6.inrae.fr/mia-paris) laboratory under the supervision of [Sophie Donnet](https://www6.inrae.fr/mia-paris/Equipes/Membres/Sophie-Donnet) and [Pierre Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon). My research focus on the modeling and the inference of networks. Fields of application arise in ecology and sociology.
