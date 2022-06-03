@@ -1,7 +1,7 @@
 ---
 title: "Saint-Clair Chabert-Liddell"
 bio: My research focus on the modeling and the inference of networks and
-  its application in sociology and ecology.
+  their applications in sociology and ecology.
 education:
   courses:
   - course: PhD in Applied Mathematics
@@ -10,14 +10,15 @@ education:
   - course: Master2 in Applied Mathematics, specialization in Statistics
     institution: Sorbonne University
     year: 2018
-email: academic@chabert-liddell.fr
+email: academic@chabert-liddell.com
 interests:
 - Networks
 - Statistics
+- Latent variables model
 organizations:
-- name: INRAE / Paris-Saclay University
+- name: Agroparistech Innovation
   url: ''
-role: PhD
+role: Research engineer
 social:
 - icon: envelope
   icon_pack: fas
