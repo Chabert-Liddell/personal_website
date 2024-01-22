@@ -1,7 +1,7 @@
 ---
 title: "Saint-Clair Chabert-Liddell"
 bio: My research focus on the modeling and the inference of networks and
-  their applications in sociology and ecology.
+  their applications in social and life sciences.
 education:
   courses:
   - course: PhD in Applied Mathematics
@@ -14,11 +14,12 @@ email: academic@chabert-liddell.com
 interests:
 - Networks
 - Statistics
+- Machine Learning
 - Latent variables model
 organizations:
-- name: Agroparistech Innovation
+- name: INRAE
   url: ''
-role: Research engineer
+role: Postdoctoral Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,4 +43,5 @@ user_groups:
 - Visitors
 ---
 
-I did my PhD in applied mathematics and statistics at the [MIA Paris](https://www6.inrae.fr/mia-paris) laboratory under the supervision of [Sophie Donnet](https://www6.inrae.fr/mia-paris/Equipes/Membres/Sophie-Donnet) and [Pierre Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon). My research focus on the modeling and the inference of networks. Fields of application arise in ecology and sociology.
+I am a postdoctoral researcher at INRAE working on deep learning and network inference methods to analyze trajectory data, with  applications to fishery science.
+I did my PhD in applied mathematics and statistics at the [MIA Paris](https://www6.inrae.fr/mia-paris) laboratory under the supervision of [Sophie Donnet](https://www6.inrae.fr/mia-paris/Equipes/Membres/Sophie-Donnet) and [Pierre Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon) for which I was awarded the Prix Marie-Jeanne Laurent-Duhamel 2024 by the French Statistical Society. My research focus on the modeling and the inference of networks. Fields of application arise in social and life sciences.
